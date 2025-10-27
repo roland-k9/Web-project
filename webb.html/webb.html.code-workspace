@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../index.html"
+		},
+		{
+			"path": "../flask app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
